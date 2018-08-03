@@ -1,10 +1,9 @@
-import { Component } from "../../../node_modules/@angular/core";
+import { Component } from '@angular/core';
 
 @Component({
-    templateUrl: './header.component.html', 
-    selector: 'app-header'
+  selector: 'app-header',
+  templateUrl: './header.component.html'
 })
-
 export class HeaderComponent {
 
 }
